@@ -1,0 +1,188 @@
+
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    padding-top: 50px;
+}
+
+h1 {
+    color: #eaf6f6;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eaf6f6;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: #eaf6f6;
+    border-width: 6px;
+    height: 0px;
+    width:4%;
+    margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+.top-container {
+    background-color: #e4f6f6;
+    position: relative;
+}
+
+.middle-container {
+    margin: 50px 0;
+}
+
+.bachelor-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.basketball-img {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.contact-me {
+    padding-top: 100px;
+}
+
+.contact-message {
+    margin: 40px auto 60px;
+    width: 40%;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.education {
+    padding-top: 100px;
+}
+
+.edu-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    padding-top: 10px;
+}
+
+.footer-link {
+    color: #11999e;
+}
+
+.hacker-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.intro {
+    margin: auto;
+    width: 30%;
+}
+
+.intro-img {
+    width: 50%;
+}
+
+.jumbotron {
+    background: fixed center no-repeat url(../images/Seattle-Wallpaper-seattle-2232425-1024-768.jpg);
+    background-size: cover;
+}
+
+.master-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.profile {
+    padding-top: 150px;
+}
+
+.profile-img {
+    width: 10%;
+}
+
+.programmer {
+    color: #eaf6f6;
+    font-weight: normal;
+    line-height: 2;
+}
+
+.skills {
+    padding-top: 100px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    padding-top: 10px 10px;
+}
+
+.tennis-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
